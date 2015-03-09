@@ -4,6 +4,8 @@ title: Some Thoughts on HTC Utopia in Progress
 ---
 So, I just watched the livestream of HTC Utopia in progress. First up, whatever else Apple may do wrong, their presentations are easily the best out there. The pauses were just awkward and the emotions associated with the words of the script just didn't carry over to the voice.
 
+![HTC One M9](http://saky.in/images/htc-one-m9.jpg "Taken from Stuff")
+
 But that aside, I think HTC has a great new phone. Sure, the design language is similar to the previous years, but let's be honest, they have the best design in the whole industry. The iPhones are beautiful, but they are just uncomfortable and slippery to hold, partly because of the lack of a curved back. And I really like the look of the new dual finish and I can't wait to see how it feels in the hand.
 
 I'm not really going to go into the specs of the device, because they don't really matter anymore. Flagships are more than capable for day to day use. I hope that HTC has made some improvements to the camera, though. People complaining about the 4 MP camera on the last two generations should be happy with the new 20.7 MP shooter.
