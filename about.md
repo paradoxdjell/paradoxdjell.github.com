@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm Aditya Saky.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a web designer, based in Bangalore, India. I'm also studying to become a Computer Science engineer.  I design concept on how Android can be improved. Currently, one of my concepts is being built into a custom ROM, called VentureROM.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aditya@saky.in](mailto:aditya@saky.in)
