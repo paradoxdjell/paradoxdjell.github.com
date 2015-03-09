@@ -4,6 +4,8 @@ title: Some Thoughts on Samsung's Galaxy S6 and S6 Edge
 ---
 So, yeah, I'm late to the party. Time-zones can really screw up your plans.
 
+![Samsung Galaxy S6 and S6 Edge](http://saky.in/images/samsung-galaxy-s6-and-s6-edge.jpg "Taken from Forbes")
+
 I watched the Samsung Galaxy Unpacked livestream too and I think that after a long time, Samsung is back on the right track. I haven't really liked what Samsung has done after the Galaxy S2 and the Galaxy S5 especially was just lousy. Samsung didn't have a very good year financially in 2014.
 
 But the Galaxy S6 is just mind blowing. I don't pay too much attention to leaks because I like to be surprised and we all know how much of these leaks are unreliable. So, during the live stream, I was especially surprised with their new design language and general direction. The software hasn't really changed all that much aesthetically, though Samsung has announced that they've cut down on bloat by 40%. They do seem to have introduced some Material Design elements and I can't wait to check them out. Side note: did anyone else find it hilarious watching Samsung's UX Lead try to explain Material Design without using the phrase "Material Design"?
