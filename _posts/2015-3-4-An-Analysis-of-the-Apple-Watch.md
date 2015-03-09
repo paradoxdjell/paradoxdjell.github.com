@@ -2,6 +2,8 @@
 layout: post
 title: An Analysis of the Apple Watch
 ---
+![Apple Watch](http://saky.in/images/apple-watch.png "Taken from Redmond Pie")
+
 Much has been said and written about the upcoming Apple Watch by people far greater and established in the world of technology. But as the date of its launch nears, I thought I'd put my two cents out there.
 
 Apple is entering its first new device segment since the death of Steve Jobs and many have been wondering the past couple of years if Apple can actually do it anymore. And there have been more questions, ever since this article was published. Apple has always pushed for simplicity of use in their products and it remains to be seen how easy the Watch actually is to use.
