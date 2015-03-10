@@ -10,7 +10,7 @@ The new MacBook is beautiful, there's no denying it. It's thinner that the MacBo
 
 But this comes at a price, literally and figuratively. The MacBook uses Intel's Core M processor clocked at standard speeds. But the Core M works great only as long as you don't move beyond basic tasks. The MacBook has 8 GB of RAM which is again sufficient for most day to day functions (I'm quite happy with 8GB myself, but 16GB is becoming the standard). And I'm wondering if the Intel HD Graphics can support the Retina screen without stuttering. Basically, the MacBook can't become the primary device for power users. At best, it can be used as an add on device, for portability.
 
-And that's where the price kicks in. At ~~$1200~~ $1299, it's more expensive than most people will pay for an add on device. If you're willing to sacrifice some of the portability, Apple's own MacBook Pro 13" starts at $1299 and makes for a much better package.
+And that's where the price kicks in. At $1299, it's more expensive than most people will pay for an add on device. If you're willing to sacrifice some of the portability, Apple's own MacBook Pro 13" starts at $1299 and makes for a much better package.
 
 Another bone I have to pick with the MacBook is that single port. One port for charging, USB, HDMI is plain stupid for the way I use my laptop. The MacBook seems to be designed with some aspects of a laptop and some aspects of a tablet, especially this port. I am, however, happy with Apple's adoption of USB Type C and hopefully more manufacturers will follow suit.
 
