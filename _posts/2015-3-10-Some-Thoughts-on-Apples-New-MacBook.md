@@ -12,7 +12,7 @@ But this comes at a price, literally and figuratively. The MacBook uses Intel's 
 
 And that's where the price kicks in. At $1200, it's more expensive than most people will pay for an add on device. If you're willing to sacrifice some of the portability, Apple's own MacBook Pro 13" starts at $1300 and makes for a much better package.
 
-Another bone I have to pick with the MacBook is that single port. One port for charging, USB, HDMI is plain stupid for the way I use my laptop. I am, however, happy with Apple's adoption of USB Type C and hopefully more manufacturers will follow suit.
+Another bone I have to pick with the MacBook is that single port. One port for charging, USB, HDMI is plain stupid for the way I use my laptop. The MacBook seems to be designed with some aspects of a laptop and some aspects of a tablet, especially this port. I am, however, happy with Apple's adoption of USB Type C and hopefully more manufacturers will follow suit.
 
 I can't comment on a couple of features such as the new keyboard and trackpad though early reports indicate that the keyboard isn't too great to type on for extended periods of time. The trackpad uses Taptic technology to make it pressure sensitive.
 
