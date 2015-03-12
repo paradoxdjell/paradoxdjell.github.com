@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Some Thoughts on Apple's New MacBook
+user: Aditya Saky
 ---
 Yesterday, Apple announced a brand new MacBook. This is not a new MacBook Pro or Air, but a brand new series in the MacBook lineup.
 
