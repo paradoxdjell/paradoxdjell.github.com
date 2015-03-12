@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An Analysis of the Apple Watch
+user: Aditya Saky
 ---
 Much has been said and written about the upcoming Apple Watch by people far greater and established in the world of technology. But as the date of its launch nears, I thought I'd put my two cents out there.
 
