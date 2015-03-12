@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Some Thoughts on HTC Utopia in Progress
+user: Aditya Saky
 ---
 So, I just watched the livestream of HTC Utopia in progress. First up, whatever else Apple may do wrong, their presentations are easily the best out there. The pauses were just awkward and the emotions associated with the words of the script just didn't carry over to the voice.
 
