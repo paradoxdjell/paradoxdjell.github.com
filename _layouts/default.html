@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+<!--Any particular reason you're reading the source code?-->
+<!--Well, I can't really stop you, can I?-->
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
@@ -16,6 +18,7 @@
   </head>
 
   <body>
+  <!--I'm grumpy though, better believe it.-->
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
@@ -31,16 +34,19 @@
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
         </header>
+        <!--You're still reading?!-->
       </div>
     </div>
 
     <div id="main" role="main" class="container">
       {{ content }}
+      <!--Oh okay, read on. (◣_◢)-->
     </div>
 
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
+        <!--Wanna hear a secret?-->
           {% include svg-icons.html %}
         </footer>
       </div>
@@ -48,4 +54,5 @@
 
     {% include analytics.html %}
   </body>
+  <!--42-->
 </html>
