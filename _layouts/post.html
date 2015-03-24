@@ -12,6 +12,6 @@ layout: default
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}{% if page.user %} by {{ page.user }}{% endif %}.
   </div>
-
+  <a name="comments" />
   {% include disqus.html %}
 </article>
