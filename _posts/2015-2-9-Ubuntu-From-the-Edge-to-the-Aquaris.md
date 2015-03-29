@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ubuntu; From the Edge to the Aquaris
+title: Ubuntu - From the Edge to the Aquaris
 user: Aditya Saky
 ---
 The year is 2013. Canonical, the creator of Ubuntu, has taken us all by storm by announcing their plans of crowdfunding their next phone, called the Edge. All of us drooled over it and we all rued the day Canonical announced that they'd not met their goal, thus scrapping the project.
