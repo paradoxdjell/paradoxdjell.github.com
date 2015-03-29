@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Biased - The Apple Watch
-user: Vedant Mathur for Apple, Jazli Aziz as the critic and Aditya Saky
 ---
 Bias. It's very predominant in the tech world and arguments on the web can get quite nasty, especially between iOS and Android fans. So I decided to get both their viewpoints on the Apple Watch in one place.
 
