@@ -34,6 +34,6 @@ When it comes to buying any new piece of technology, the consumer must feel like
 
 *Vedant Mathur is a lover of all things technology. Though he's an Android developer, he's quick to go back to his iPhone 6 and iPad, simply because the experience beats his Moto X, in his opinion. Check out Vedant's profile [here](http://google.com/+VedantMathur).*
 
-*Jazli Aziz has three loves - Manchester United, Batman and Android. He is a strong proponent for stock Android and currently uses a Google Nexus 5. His blog, Triplicate Thoughts, is quite popular among tech enthusiasts. Check out Jazli's profile [here](http://google.com/+JazliAziz). His half of the article can also be found [here](http://triplicatethoughts.blogspot.in/2015/03/biased-apple-watch.html#.VRgAB_mUcRo).*
+*Jazli Aziz has three loves - Manchester United, Batman and Android. He is a strong proponent of stock Android and currently uses a Google Nexus 5. His blog, Triplicate Thoughts, is quite popular among tech enthusiasts. Check out Jazli's profile [here](http://google.com/+JazliAziz). His half of the article can also be found [here](http://triplicatethoughts.blogspot.in/2015/03/biased-apple-watch.html#.VRgAB_mUcRo).*
 
 *Kishan Shyam contributed to this post.*
