@@ -2,7 +2,7 @@
 layout: post
 title: Biased - The Apple Watch
 ---
-Bias. It's very predominant in the tech world and arguments on the web can get quite nasty, especially between iOS and Android fans. So I decided to get both their viewpoints on the Apple Watch in one place.
+"Biased" is an idea I conceptualised where instead of having one author trying to be neutral while writing an article on a polarising topic (like mobile tech), we have two authors writing clearly biased articles instead. Everyone is biased after all. So why not embrace it? This first piece is on the Apple Watch, a very debatable topic as with all Apple products. [+Vedant Mathur](http://google.com/+VedantMathur) will be providing the positively biased article and [+Jazli Aziz](http://google.com/+JazliAziz) will be providing the negatively biased article.
 
 ![Apple Watch](http://saky.in/images/apple-watch.png "Taken from Redmond Pie")
 
