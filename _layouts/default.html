@@ -32,14 +32,15 @@
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
-            {% include search.html %}
           </nav>
         </header>
         <!--You're still reading?!-->
       </div>
     </div>
+    {% include search.html %}
 
     <div id="main" role="main" class="container">
+    
       {{ content }}
       <!--Oh okay, read on. (◣_◢)-->
     </div>
