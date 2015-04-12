@@ -244,13 +244,11 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
-  text-align: center;
 }
 
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
-  text-align: center;
 }
 
 .post {
@@ -270,7 +268,7 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
-    text-align: center;
+    text-align: right;
   }
 }
 
