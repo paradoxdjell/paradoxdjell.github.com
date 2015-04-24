@@ -12,6 +12,6 @@ I [posted a while ago](http://saky.in/Net-Neutrality-in-India/) about why net ne
 
 I've embedded the images below!
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/myxy5" data-context="false"><a href="//imgur.com/a/myxy5">Net Neutrality Walkathon, Bangalore, India</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+{% include net-neutrality-walkathon-images.html %}
 
 Also, today is the last day to appeal TRAI to protect out internet. Hit up [savetheinternet.in](http://savetheinternet.in/) if you haven't already.
