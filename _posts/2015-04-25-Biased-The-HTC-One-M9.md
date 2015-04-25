@@ -35,4 +35,4 @@ Reviews for the device range from a 4 out of 5 star rating from [Techradar](http
 
 *Jazli Aziz has three loves - Manchester United, Batman and Android. He is a strong proponent of stock Android and currently uses a Google Nexus 5. His blog, Triplicate Thoughts, is quite popular among tech enthusiasts. Check out Jazli's profile [here](http://google.com/+JazliAziz).*
 
-*Brandon Spruill - Born and raised in Silicon Alley, a Computer Science major who loves the latest, greatest, and most innovative technology. Oh. And he writes.
+*Brandon Spruill - Born and raised in Silicon Alley, a Computer Science major who loves the latest, greatest, and most innovative technology. Oh. And he writes.*
