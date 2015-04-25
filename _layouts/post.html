@@ -12,6 +12,7 @@ layout: default
   <div class="date">
     Published on {{ page.date | date: "%B %e, %Y" }}{% if page.user %} by {{ page.user }}{% endif %}.
   </div>
+  <br>
   {% include ads.html %}
   <a name="comments" />
   {% include disqus.html %}
