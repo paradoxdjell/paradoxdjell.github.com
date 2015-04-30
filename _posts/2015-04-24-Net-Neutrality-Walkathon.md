@@ -15,3 +15,5 @@ I've embedded the images below!
 {% include net-neutrality-walkathon-images.html %}
 
 Also, today is the last day to appeal TRAI to protect out internet. Hit up [savetheinternet.in](http://savetheinternet.in/) if you haven't already.
+
+*Edit: TRAI is no longer accepting responses from users. They've now asked telecom companies to present their side. Stay tuned.*
