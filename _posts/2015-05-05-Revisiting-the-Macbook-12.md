@@ -4,7 +4,7 @@ title: Revisiting the Macbook 12
 user: Aditya Saky
 ---
 
-In my initial post on Apple's new Macbook, I had a few bones to pick with the new Macbook. However, I thought over some of the points I made and I realised that some of them have slowly become invalid in the last couple of years.
+[In my initial post on Apple's new Macbook](http://saky.in/Some-Thoughts-on-Apples-New-MacBook/), I had a few bones to pick with the new Macbook. However, I thought over some of the points I made and I realised that some of them have slowly become invalid in the last couple of years.
 
 ![Apple's new MacBook](http://saky.in/images/apple-macbook.jpg "Taken from MacWorld")
 
