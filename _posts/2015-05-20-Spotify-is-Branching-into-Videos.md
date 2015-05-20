@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Spotify is Branching into Videos
 user: Aditya Saky
