@@ -34,4 +34,8 @@ iOS 9 will also come with a new News app, which is very reminiscent of Flipboard
 
 Apple also announced WatchOS 2, for the Apple Watch. This update will allow apps to access the microphone, speakers, accelerometer and the Digital Crown. You can also customise your watchface with your own photos.
 
+Apple is entering the subscription music field with Apple Music, which is set to take on the likes of Spotify, Rdio and Google Play Music. Unfortunately, not only are they rather late to the party, but their streaming quality isn't on par with the rest. Apple Music also includes live radio with curated playlists, something the other services have automated. This will also be the first cross platform Apple app, with Android and Windows support. Apple Music has a couple of things going for it. It's free for the first three months, which will help get a lot of iOS users, as the app is pre-installed. And, Apple Music has one of the cheapest family plans. But, while Apple Music might draw a lot of new users, it seems unlikely if users of older services like Spotify will be drawn away.
+
+![Comparison of the various streaming services](http://saky.in/images/techcrunch-music-comparison.png "Taken from TechCrunch")
+
 The conferences might not have brought major changes, but we can't have major changes every year. This year was all about making the systems more stable and complete. As is evident, a lot of the features announced by both Google and Apple aren't new. But, borrowing and adding features from other platforms is great news for the end user. Google and Apple are battling it out and fanboys take up this battle on social networks. **And the winner is the user.**
