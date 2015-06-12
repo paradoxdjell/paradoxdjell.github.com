@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="posts">
+Pinned:
 {% for post in site.posts %}
 {% if post.pin %}    
 <article class="post">
@@ -22,8 +23,11 @@ layout: default
     </article>
 {% endif %}
   {% endfor %}
-  
+
+Other posts:  
 {% for post in site.posts %}
+{% if post.pin %}
+{% else %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -40,5 +44,5 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}#comments" class="read-more">> Comments</a>
     </article>
   {% endfor %}
-
+{% endif %}
 </div>
