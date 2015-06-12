@@ -5,7 +5,7 @@ layout: default
 <div class="posts">
 <div class="wrapper-pinned">
       <div class="container">
-Pinned:
+Read now:
 {% for post in site.posts %}
 {% if post.pin %}    
 <article class="post">
@@ -27,7 +27,7 @@ Pinned:
   {% endfor %}
 </div>
 </div>
-Other posts:  
+ 
 {% for post in site.posts %}
 {% if post.pin %}
 {% else %}
