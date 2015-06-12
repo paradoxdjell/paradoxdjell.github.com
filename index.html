@@ -3,7 +3,10 @@ layout: default
 ---
 
 <div class="posts">
-<br><br>Pinned:
+<div class="wrapper-pinned">
+      <div class="container">
+<br><br>
+Pinned:
 {% for post in site.posts %}
 {% if post.pin %}    
 <article class="post">
@@ -23,6 +26,8 @@ layout: default
     </article>
 {% endif %}
   {% endfor %}
+</div>
+</div>
 <br><br>
 Other posts:  
 {% for post in site.posts %}
