@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-Pinned:
+<br><br>Pinned:
 {% for post in site.posts %}
 {% if post.pin %}    
 <article class="post">
@@ -23,7 +23,7 @@ Pinned:
     </article>
 {% endif %}
   {% endfor %}
-
+<br><br>
 Other posts:  
 {% for post in site.posts %}
 {% if post.pin %}
