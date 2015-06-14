@@ -5,6 +5,7 @@ layout: default
 <div class="posts">
 <div class="wrapper-pinned">
       <div class="container">
+<br>
 <div class="pinned">featured</div>
 {% for post in site.posts %}
 {% if post.pin %}    
@@ -24,7 +25,7 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}#comments" class="read-more">> Comments</a>
     </article>
 {% endif %}
-<div class="free"></div>
+<br>
   {% endfor %}
 </div>
 </div>
