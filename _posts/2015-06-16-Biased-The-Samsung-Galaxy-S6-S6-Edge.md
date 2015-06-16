@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biased - The Samsung Galaxy S6/S6 Edge
+title: Biased - The Samsung Galaxy S6 and S6 Edge
 tag: biased
 pin: true
 ---
