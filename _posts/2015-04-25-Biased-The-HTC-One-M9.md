@@ -2,7 +2,6 @@
 layout: post
 title: Biased - The HTC One M9
 tag: biased
-pin: true
 ---
 
 Biased is back, this time taking a look at the HTC One M9. We have [+Jazli Aziz](http://google.com/+JazliAziz) providing the positively biased article and [+Brandon Spruill](http://plus.google.com/+BrandonSpruill) of [GadgtSpot](http://www.gadgtspot.com/) providing the negatively biased article.
