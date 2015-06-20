@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Aditya Saky.
+Hi, I'm Aditya Saky!
 
 I'm an amateur web designer, based in Bangalore, India. I'm studying Computer Science and I'm also one of the developers behind <a href="http://venturerom.com" target="_blank">VentureROM</a>, a custom ROM for Android.
 
