@@ -18,4 +18,7 @@ If you like the content on this site, you can support my existence and my quest 
 
 ### Contact me
 
-[aditya@saky.in](mailto:aditya@saky.in)
+Email: [aditya@saky.in](mailto:aditya@saky.in)
+Google+: <a href="http://google.com/+AdityaSaky" target="_blank">+Aditya Saky</a>
+Facebook: <a href="http://fb.me/AdityaSaky" target="_blank">Aditya Saky</a>
+Twitter: <a href="https://twitter.com/saky_himself" target="_blank">@saky_himself</a>
