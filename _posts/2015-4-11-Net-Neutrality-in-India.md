@@ -2,6 +2,7 @@
 layout: post
 title: Net Neutrality in India
 user: Aditya Saky
+image: http://saky.in/images/net-neutrality.jpg
 ---
 I never expected to be writing this article, as I didn't think the question would arise in a country like India. In a country where a large number of people struggle to make ends meet, I figured this would come up much much later. I've been following what's happening in the United States quite keenly over the last year or so.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Some Thoughts on Samsung's Galaxy S6 and S6 Edge
 user: Aditya Saky
+image: http://saky.in/images/samsung-galaxy-s6-and-s6-edge.jpg
 ---
 So, yeah, I'm late to the party. Time-zones can really screw up your plans.
 

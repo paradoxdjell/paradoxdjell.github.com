@@ -2,6 +2,7 @@
 layout: post
 title: Net Neutrality Walkathon
 user: Aditya Saky
+image: http://saky.in/images/net-neutrality-walkathon.jpg
 ---
 
 I [posted a while ago](http://saky.in/Net-Neutrality-in-India/) about why net neutrality is important, especially in a country like India.

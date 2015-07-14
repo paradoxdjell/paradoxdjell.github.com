@@ -2,13 +2,14 @@
 layout: post
 title: Biased - The HTC One M9
 tag: biased
+image: http://saky.in/images/htc-one-m9.jpg
 ---
 
 Biased is back, this time taking a look at the HTC One M9. We have [+Jazli Aziz](http://google.com/+JazliAziz) providing the positively biased article and [+Brandon Spruill](http://plus.google.com/+BrandonSpruill) of [GadgtSpot](http://www.gadgtspot.com/) providing the negatively biased article.
 
 ![HTC One M9](http://saky.in/images/htc-one-m9.jpg "Taken from Stuff")
 
-####Jazli Aziz:
+####Jazli Aziz
 
 HTC has received a lot of criticism lately. Which is weird, considering how for the past two years, HTC has received pretty much nothing but praise. Praise which is starting to translate into market success, as HTC is set to record their [fourth successive quarterly profit](http://www.androidheadlines.com/2015/04/htc-reports-q1-2015-results-detailing-profit-fourth-consecutive-quarter.html) after several years of nothing but losses. The One M9 itself received a lot of criticism, and HTC’s latest announcements of the [One M8s](http://www.engadget.com/2015/04/02/htc-one-m8s-announced/) and the [One M9+](http://www.gsmarena.com/htc_one_m9_with_duo_camera_launched_in_china-news-11836.php) just compounded the criticism onto HTC. But if you ask me, all this criticism is a little unfair towards HTC. I’ll be going through most of the major talking points that have been making the rounds on the internet, and telling you why you shouldn’t be too harsh on HTC.
 
@@ -32,7 +33,7 @@ In comparison to other flagships, though, it just doesn’t cut it. Despite havi
 
 Reviews for the device range from a 4 out of 5 star rating from [Techradar](http://www.techradar.com/us/reviews/phones/mobile-phones/htc-one-m9-1285623/review), to “meh” and “you probably don’t want this phone” from [Know Your Mobile](http://www.knowyourmobile.com/mobile-phones/htc-one-m9/23109/htc-one-m9-review-specs-camera-sense-7-android-lollipop-update-detailed) and [Droid Life](http://www.droid-life.com/2015/04/21/htc-one-m9-review-2/), respectively. Unfortunately, HTC just missed the mark this year. Hopefully, the M10 will be much, much better, and worth your money. For now, stick with the M8. It’s only $1 on-contract.
 
-####Bios:
+####Bios
 
 *Jazli Aziz has three loves - Manchester United, Batman and Android. He is a strong proponent of stock Android and currently uses a Google Nexus 5. His blog, Triplicate Thoughts, is quite popular among tech enthusiasts. Check out Jazli's profile [here](http://google.com/+JazliAziz).*
 

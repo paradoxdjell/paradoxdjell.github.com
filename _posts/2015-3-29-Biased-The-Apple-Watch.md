@@ -2,12 +2,13 @@
 layout: post
 title: Biased - The Apple Watch
 tag: biased
+image: http://saky.in/images/apple-watch.png
 ---
 "Biased" is an idea I conceptualised where instead of having one author trying to be neutral while writing an article on a polarising topic (like mobile tech), we have two authors writing clearly biased articles instead. Everyone is biased after all. So why not embrace it? This first piece is on the Apple Watch, a very debatable topic as with all Apple products. [+Vedant Mathur](http://google.com/+VedantMathur) will be providing the positively biased article and [+Jazli Aziz](http://google.com/+JazliAziz) will be providing the negatively biased article.
 
 ![Apple Watch](http://saky.in/images/apple-watch.png "Taken from Redmond Pie")
 
-####Vedant Mathur:
+####Vedant Mathur
 
 Earlier this month, Apple announced the Apple Watch. I was in class at the time, so I watched the rerun later. The way Tim Cook described it made it perfect. How much more perfect can a device get, anyway? The only rival to the Apple watch is the toned down Pebble Time which, for just $150 less, isn’t worth it. “Smartwatches” have been around for quite a while, whether they be backlit on touch, e-ink, or calculator watches - they are a type of watch that gives superior functionality over a standard watch. Google’s Android Wear has been around for some time. I’ve personally been using a Moto 360 for the past several months. It’s okay, but the OS as a whole feels lacking in more aspects than one. Performance, ease of use, connectivity with other apps, including some of Google’s own. When I first got my watch, I couldn’t send a Hangouts message; I could only respond to one. Google is only now rolling this out.
 
@@ -31,7 +32,7 @@ So if the design and the price can’t convince consumers they need a smartwatch
 
 When it comes to buying any new piece of technology, the consumer must feel like they are getting their money’s worth. The price of smartwatches will always need to be proportionate to its functionality, and it will always be compared to the price and functionality of a smartphone. Perhaps the reason why Pebble has been so successful is because you get a lot of value for a small price. With the Apple Watch, it seems like the exact opposite. The Apple Watch was supposed to usher in a new dawn of wearable technology. It was supposed to make the average Joe want a smartwatch. But with what Apple has given us, I think the smartwatch market will be largely unaffected by it.
 
-###Bios:
+###Bios
 
 *Vedant Mathur is a lover of all things technology. Though he's an Android developer, he's quick to go back to his iPhone 6 and iPad, simply because the experience beats his Moto X, in his opinion. Check out Vedant's profile [here](http://google.com/+VedantMathur).*
 
