@@ -2,7 +2,6 @@
 title: Google and Apple are Both Catching Up
 user: Aditya Saky
 layout: post
-pin: true
 ---
 
 Many complained that the developer conferences, WWDC and I/O this year weren't as big of a deal as the previous years. Last year's I/O was a much bigger affair, with the announcement of Android L and the release of two Android Wear watches. Apple announced Yosemite, a visual overhaul for OS X. This year, though, was all about refinements and *catching up*.
