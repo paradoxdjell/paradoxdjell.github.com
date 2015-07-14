@@ -10,7 +10,7 @@ layout: default
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <div class="date">
-    {{ post.date | date: "%B %e, %Y" }} | {{ post.user }}
+        {{ post.date | date: "%B %e, %Y" }}{% if post.user %} | {{ post.user }}{% endif %}
   </div>
 
       <div class="entry">
