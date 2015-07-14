@@ -5,6 +5,7 @@ layout: default
 <div class="posts">
 
 {% for post in site.posts %}
+  <div class="cards">
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -23,6 +24,7 @@ layout: default
       &nbsp;
       <a href="{{ site.baseurl }}{{ post.url }}#comments" class="read-more">> Comments</a>
     </article>
-
   {% endfor %}
+ </div>
+ 
 </div>
