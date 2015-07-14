@@ -17,10 +17,11 @@ layout: default
   </div>
 
       <div class="entry">
-        {{ post.excerpt }}
+        <br>
         {% if post.image %}
           <img src="{{ post.image }}">
         {% endif %}
+        {{ post.excerpt }}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">> Read More</a>
@@ -44,10 +45,11 @@ layout: default
   </div>
 
       <div class="entry">
-        {{ post.excerpt }}
+        <br>
         {% if post.image %}
           <img src="{{ post.image }}">
         {% endif %}
+        {{ post.excerpt }}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">> Read More</a>
