@@ -31,11 +31,11 @@ body {
   width: 100%;
 }
 
-//cards {
-//  width: inherit;
-//  box-shadow: 10px 10px 5px #888888;
-//  background: $lightGray;
-//}
+cards {
+  width: 90%;
+  box-shadow: 10px 10px 5px #888888;
+  background: $lightGray;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
