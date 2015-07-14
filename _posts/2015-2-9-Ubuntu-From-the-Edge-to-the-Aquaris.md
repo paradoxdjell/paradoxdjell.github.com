@@ -6,7 +6,7 @@ image: http://saky.in/images/ubuntu-edge.jpg
 ---
 The year is 2013. Canonical, the creator of Ubuntu, has taken us all by storm by announcing their plans of crowdfunding their next phone, called the Edge. All of us drooled over it and we all rued the day Canonical announced that they'd not met their goal, thus scrapping the project.
 
-![Ubuntu Edge](http://saky.in/images/ubuntu-edge.jpg "Taken from Android Authority")
+![Ubuntu Edge](http://saky.in/images/ubuntu-edge.jpg "Taken from Phandroid")
 
 The Edge would have had 4 GB of RAM, something phones don't have even today. 4 GB is overkill according to most, but think about how long the phone would have gone without becoming obsolete! My previous phone had 1 GB of RAM and I upgraded to the Nexus 5 with 2 GB. So far so good, but in a couple of years, as phones get more and more capabilities of our PCs, that 2 GB is going to seem very less indeed.
 
