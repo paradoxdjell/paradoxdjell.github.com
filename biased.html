@@ -17,6 +17,9 @@ title: Biased
 
       <div class="entry">
         {{ post.excerpt }}
+        {% if post.image %}
+          <img src="{{ post.image }}">
+        {% endif %}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">> Read More</a>
