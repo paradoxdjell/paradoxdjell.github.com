@@ -3,40 +3,9 @@ layout: default
 ---
 
 <div class="posts">
-<div class="wrapper-pinned">
-      <div class="container">
-<br>
-<div class="pinned">read_first</div>
-{% for post in site.posts %}
-{% if post.pin %}
-<article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <div class="date">
-    {{ post.date | date: "%B %e, %Y" }}
-  </div>
-
-      <div class="entry">
-        <br>
-        {% if post.image %}
-          <img src="{{ post.image }}">
-        {% endif %}
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">> Read More</a>
-      &nbsp;
-      <a href="{{ site.baseurl }}{{ post.url }}#comments" class="read-more">> Comments</a>
-    </article>
-{% endif %}
-  {% endfor %}
-<br>
-</div>
-</div>
  {% include ads_r.html %}
-{% for post in site.posts %}
-{% if post.pin %}
-{% else %}
+
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -56,6 +25,5 @@ layout: default
       &nbsp;
       <a href="{{ site.baseurl }}{{ post.url }}#comments" class="read-more">> Comments</a>
     </article>
-{% endif %}
-  {% endfor %}
+
 </div>
