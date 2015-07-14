@@ -3,9 +3,8 @@ layout: default
 ---
 
 <div class="posts">
-
  {% include ads_r.html %}
-
+{% for post in site.posts %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -18,7 +17,6 @@ layout: default
         {% if post.image %}
           <img src="{{ post.image }}">
         {% endif %}
-        {{ post.excerpt }}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">> Read More</a>
@@ -26,4 +24,5 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}#comments" class="read-more">> Comments</a>
     </article>
 
+  {% endfor %}
 </div>
