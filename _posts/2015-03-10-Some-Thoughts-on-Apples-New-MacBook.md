@@ -3,6 +3,7 @@ layout: post
 title: Some Thoughts on Apple's New MacBook
 user: Aditya Saky
 image: http://saky.in/images/apple-macbook.jpg
+excerpt: Yesterday, Apple announced a brand new MacBook. This is not a new MacBook Pro or Air, but a brand new series in the MacBook lineup.
 ---
 Yesterday, Apple announced a brand new MacBook. This is not a new MacBook Pro or Air, but a brand new series in the MacBook lineup.
 

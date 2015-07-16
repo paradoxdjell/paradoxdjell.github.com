@@ -3,6 +3,7 @@ layout: post
 title: Some Thoughts on Samsung's Galaxy S6 and S6 Edge
 user: Aditya Saky
 image: http://saky.in/images/samsung-galaxy-s6-and-s6-edge.jpg
+excerpt: I watched the Samsung Galaxy Unpacked livestream too and I think that after a long time, Samsung is back on the right track. I haven't really liked what Samsung has done after the Galaxy S2 and the Galaxy S5 especially was just lousy. Samsung didn't have a very good year financially in 2014.
 ---
 So, yeah, I'm late to the party. Time-zones can really screw up your plans.
 

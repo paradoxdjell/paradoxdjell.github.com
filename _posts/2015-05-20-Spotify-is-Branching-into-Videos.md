@@ -3,6 +3,7 @@ layout: post
 title: Spotify is Branching into Videos
 user: Aditya Saky
 image: http://saky.in/images/spotify.png
+excerpt: I was a user of Spotify till a month ago and I was generally a fan of the service. I made the switch to Rdio last month simply because Rdio is cheaper, even though the Spotify app is quite a lot better.
 ---
 I was a user of Spotify till a month ago and I was generally a fan of the service. I made the switch to Rdio last month simply because Rdio is cheaper, even though the Spotify app is quite a lot better.
 
