@@ -3,10 +3,10 @@ layout: post
 title: Net Neutrality Walkathon
 user: Aditya Saky
 image: http://saky.in/images/net-neutrality-walkathon.jpg
-excerpt: I [posted a while ago](http://saky.in/Net-Neutrality-in-India/) about why net neutrality is important, especially in a country like India.
+excerpt: I posted a while ago about why net neutrality is important, especially in a country like India.
 ---
 
-I [posted a while ago](http://saky.in/Net-Neutrality-in-India/) about why net neutrality is important, especially in a country like India.
+I posted a while ago](http://saky.in/Net-Neutrality-in-India/) about why net neutrality is important, especially in a country like India.
 
 ![Net Neutrality Walkathon](http://saky.in/images/net-neutrality-walkathon.jpg "Taken from FSMK and I'm pretty sure they don't mind ;)")
 
