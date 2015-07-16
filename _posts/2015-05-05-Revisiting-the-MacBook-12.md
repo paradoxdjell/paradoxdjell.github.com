@@ -3,7 +3,7 @@ layout: post
 title: Revisiting the MacBook 12
 user: Aditya Saky
 image: http://saky.in/images/apple-macbook.jpg
-excerpt: [In my initial post on Apple's new MacBook](http://saky.in/Some-Thoughts-on-Apples-New-MacBook/), I had a few bones to pick with it. However, I thought over some of the points I made and I realised that some of them have slowly become invalid in the last couple of years.
+excerpt: In my initial post on Apple's new MacBook, I had a few bones to pick with it. However, I thought over some of the points I made and I realised that some of them have slowly become invalid in the last couple of years.
 ---
 
 [In my initial post on Apple's new MacBook](http://saky.in/Some-Thoughts-on-Apples-New-MacBook/), I had a few bones to pick with it. However, I thought over some of the points I made and I realised that some of them have slowly become invalid in the last couple of years.
