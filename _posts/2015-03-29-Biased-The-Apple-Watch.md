@@ -3,7 +3,7 @@ layout: post
 title: Biased - The Apple Watch
 tag: biased
 image: http://saky.in/images/apple-watch.png
-excerpt: "Biased" is an idea I conceptualised where instead of having one author trying to be neutral while writing an article on a polarising topic (like mobile tech), we have two authors writing clearly biased articles instead. Everyone is biased after all. So why not embrace it? This first piece is on the Apple Watch, a very debatable topic as with all Apple products. [+Vedant Mathur](http://google.com/+VedantMathur) will be providing the positively biased article and [+Jazli Aziz](http://google.com/+JazliAziz) will be providing the negatively biased article.
+excerpt: "Biased" is an idea I conceptualised where instead of having one author trying to be neutral while writing an article on a polarising topic (like mobile tech), we have two authors writing clearly biased articles instead. Everyone is biased after all. So why not embrace it? This first piece is on the Apple Watch, a very debatable topic as with all Apple products. Vedant Mathur will be providing the positively biased article and Jazli Aziz will be providing the negatively biased article.
 ---
 "Biased" is an idea I conceptualised where instead of having one author trying to be neutral while writing an article on a polarising topic (like mobile tech), we have two authors writing clearly biased articles instead. Everyone is biased after all. So why not embrace it? This first piece is on the Apple Watch, a very debatable topic as with all Apple products. [+Vedant Mathur](http://google.com/+VedantMathur) will be providing the positively biased article and [+Jazli Aziz](http://google.com/+JazliAziz) will be providing the negatively biased article.
 
