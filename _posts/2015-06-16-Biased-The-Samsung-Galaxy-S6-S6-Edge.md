@@ -7,7 +7,6 @@ image: http://saky.in/images/samsung-galaxy-s6-and-s6-edge.jpg
 ---
 
 The third instalment of Biased is here, this time taking a look at the Samsung Galaxy S6 and S6 Edge. We have <a href="https://plus.google.com/104057523459738590274" target="_blank">+Dan Kinem</a> providing the positively biased article and once again, we have <a href="http://google.com/+JazliAziz" target="_blank">+Jazli Aziz</a> providing the negatively biased article!
-
 ![Samsung Galaxy S6 and S6 Edge](http://saky.in/images/samsung-galaxy-s6-and-s6-edge.jpg "Taken from Forbes")
 
 ####Dan Kinem
