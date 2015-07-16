@@ -7,7 +7,7 @@ title: Biased
 <div class="posts">
   {% for post in site.posts %}
 {% if post.tag == 'biased' %}
-<div class="cards">
+<div class="cards" onclick="location.href='{{ site.baseurl }}{{ post.url }}';" style="cursor: pointer;">
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
