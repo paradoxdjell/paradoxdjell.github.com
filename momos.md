@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Where can I find a good Momo?
+title: The Perfect Momo Quest
 permalink: /momos/
 ---
 
