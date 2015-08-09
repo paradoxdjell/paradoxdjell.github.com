@@ -17,3 +17,5 @@ I thought I'd log my quest to find the perfect momo somewhere. For the uninitiat
 * Roving Feast
 * Rolls on Wheels
 * Juicy Momos
+
+You can help add to this list! If you know where to find a good momo, shoot me an email. Oh, and turn off your Ad Blocker. This site has non invasive Google and Amazon advertisements.
