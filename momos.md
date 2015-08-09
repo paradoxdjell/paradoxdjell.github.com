@@ -12,8 +12,8 @@ I thought I'd log my quest to find the perfect momo somewhere. For the uninitiat
 
 ###Approved Momo Vendors
 
-*Momo Junction
-*Momo Mia!
-*Roving Feast
-*Rolls on Wheels
-*Juicy Momos
+* Momo Junction
+* Momo Mia!
+* Roving Feast
+* Rolls on Wheels
+* Juicy Momos
