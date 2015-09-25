@@ -10,7 +10,9 @@ I'm an amateur web designer, based in Bangalore, India. I'm studying Computer Sc
 
 I'm the co-creator/owner (can chat-rooms be owned?) of the chat-room shield on Scrollback. This is a chat-room for all things S.H.I.E.L.D. from the Marvel Cinematic Universe. <a href="http://scrollback.io/shield" target="_blank">Join us!</a>
 
-If you like the content on this site, you can support my existence and <a href="http://saky.in/momos" target="_blank">my quest to find the perfect momo</a> in this world by turning off your Ad Blocker. This site has non invasive Google and Amazon advertisements. Oh, and for the uninitiated, Wikipedia describes momo as:
+If you like the content on this site, you can support my existence and <a href="http://saky.in/momos" target="_blank">my quest to find the perfect momo</a> in this world by turning off your Ad Blocker. This site has non invasive Google and Amazon advertisements. You can also help me out by bookmarking my Amazon Associate ID: <a href="http://amazon.in/?tag=sakyin-21" target="_blank">http://amazon.in/?tag=sakyin-21</a>. This will open the Amazon site for you and for purchase you make, I get a small percentage, with no additionall cost to you.
+
+Oh, and for the uninitiated, Wikipedia describes momo as:
 
 <i>"Momo is a type of steamed bun with or without filling. Momo has become a traditional delicacy in Nepal, Tibet and among Nepalese/Tibetan communities in Bhutan, Sikkim and Darjeeling district. It is one of the most popular fast foods in many regions of Nepal populated with people of Tibetan or Himalayan origin. Momos have spread to India in places with a significant Tibetan and Nepalese diaspora, including West Bengal, Assam, Delhi, Mizoram, Manipur, Nagaland, Meghalaya, Himachal Pradesh, Bangalore, Arunachal Pradesh, and Uttarakhand."</i>
 
