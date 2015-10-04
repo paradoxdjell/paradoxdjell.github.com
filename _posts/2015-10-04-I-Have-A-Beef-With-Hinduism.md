@@ -8,7 +8,7 @@ image: http://saky.in/images/cow.jpg
 
 I generally don't comment on non-tech happenings, especially where India's events are concerned. But this particular incident that has played out over the last few days is hard to ignore. A man called Mohammed Akhlaq was killed in Dadri, just 75km from Delhi, by a mob. No, not killed, but *lynched*. Why? A rumour was started that he consumed beef.
 
-![Le Cow](http://saky.in/images/cow.jpg "Taken from The Guardian")
+![Le Cow](http://saky.in/images/cow.jpg "Taken from Wikimedia")
 
 Cows are regarded as sacred animals by Hindus, who make up the majority of the country's huge population. Thus, in most states, the slaughter of cows is illegal. However, posession and consumption of beef isn't illegal. We Indians seem to have forgotten that even many of our greatest sages frequently consumed cows.
 
