@@ -5,7 +5,7 @@ excerpt: Once again, we fight for net neutrality in India. After Facebook rename
 image: http://saky.in/images/net-neutrality.jpg
 ---
 
-Once again, we fight for net neutrality in India. After Facebook renamed internet.org to Free Basics and started asking users to sign a petition to "save Free Basics in India", a lot of back and forth has taken place, which culminated in Mark Zuckerberg himself coming out of paternity leave to write an editorial in The Times of India.
+Once again, we fight for net neutrality in India. After Facebook renamed internet.org to Free Basics and started asking users to sign a petition to "save Free Basics in India", a lot of back and forth took place, which culminated in Mark Zuckerberg himself coming out of paternity leave to write an editorial in The Times of India.
 
 ![Not the internet we want](http://saky.in/images/net-neutrality.jpg "Taken from netneutrality.in")
 
@@ -32,4 +32,4 @@ This is a much better idea and if a non-profit like Mozilla can pull this off, F
 
 And you aren't necessarily helping people either. A [survey by Quartz](https://finance.yahoo.com/news/facebook-bigger-internet-205244316.html;_ylt=AwrTccxY.i5VeQ8AUMMnnIlQ;_ylu=X3oDMTEzbzJvNzI4BHNlYwNzcgRwb3MDNgRjb2xvA2dxMQR2dGlkA1lIUzAwMl8x) showed that a large number of internet.org users are actually unaware that there is an internet beyond Facebook and a handful of other sites they're exposed to. This is nothing short of frightening. These users aren't going to be using Free Basics as a "bridge to the full internet" as Mr Zuckerberg puts it and *that's precisely what Facebook wants*. 
 
-What can we do? Turns out Facebook isn't the only one who can petition TRAI. Head to [savetheinternet.in](www.savetheinternet.in) ASAP and show your support for an open internet!
+What can we do? Turns out Facebook isn't the only one who can petition TRAI. Head to [savetheinternet.in](http://www.savetheinternet.in) ASAP and show your support for an open internet!
