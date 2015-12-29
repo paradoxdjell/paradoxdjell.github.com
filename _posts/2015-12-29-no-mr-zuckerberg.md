@@ -12,7 +12,7 @@ His editorial started off with this brilliant line. Okay, Mr Zuckerberg, let's s
 
 >We have collections of free basic books. They’re called libraries. They don’t contain every book, but they still provide a world of good.
 
-But, you can't really compare a library to the internet. It's in his statement right there - "libraries". Plural, not singular. You don't find a book you want in one library, you just try another one. That's not possible in a walled internet which is what Free Basics is.
+But, you can't really compare a library to the internet. It's in his statement right there - "libraries". Plural, not singular. You don't find a book you want in one library, you just try another one. That's not possible in a walled internet which Free Basics is.
 
 >Over the last year Facebook has worked with mobile operators, app developers and civil society to overcome these barriers in India and more than 30 other countries. We launched Free Basics, a set of basic internet services for things like education, healthcare, jobs and communication that people can use without paying for data. <br><br>
 More than 35 operators have launched Free Basics and 15 million people have come online. And half the people who use Free Basics to go online for the first time pay to access the full internet within 30 days.
