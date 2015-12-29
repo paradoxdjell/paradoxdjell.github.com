@@ -33,3 +33,5 @@ This is a much better idea and if a non-profit like Mozilla can pull this off, F
 And you aren't necessarily helping people either. A [survey by Quartz](https://finance.yahoo.com/news/facebook-bigger-internet-205244316.html;_ylt=AwrTccxY.i5VeQ8AUMMnnIlQ;_ylu=X3oDMTEzbzJvNzI4BHNlYwNzcgRwb3MDNgRjb2xvA2dxMQR2dGlkA1lIUzAwMl8x) showed that a large number of internet.org users are actually unaware that there is an internet beyond Facebook and a handful of other sites they're exposed to. This is nothing short of frightening. These users aren't going to be using Free Basics as a "bridge to the full internet" as Mr Zuckerberg puts it and *that's precisely what Facebook wants*. 
 
 What can we do? Turns out Facebook isn't the only one who can petition TRAI. Head to [savetheinternet.in](http://www.savetheinternet.in) ASAP and show your support for an open internet!
+
+*Kishan Gupta contributed to this post.*
