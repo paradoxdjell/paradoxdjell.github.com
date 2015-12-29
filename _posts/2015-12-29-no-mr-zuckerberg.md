@@ -2,9 +2,12 @@
 title: No, Mr Zuckerberg
 layout: post
 excerpt: Once again, we fight for net neutrality in India. After Facebook renamed internet.org to Free Basics and started asking users to sign a petition to "save Free Basics in India", a lot of back and forth has taken place, which culminated in Mark Zuckerberg himself coming out of paternity leave to write an editorial in The Times of India.
+image: http://saky.in/images/net-neutrality.jpg
 ---
 
 Once again, we fight for net neutrality in India. After Facebook renamed internet.org to Free Basics and started asking users to sign a petition to "save Free Basics in India", a lot of back and forth has taken place, which culminated in Mark Zuckerberg himself coming out of paternity leave to write an editorial in The Times of India.
+
+![Not the internet we want](http://saky.in/images/net-neutrality.jpg "Taken from netneutrality.in")
 
 >To connect a billion people, India must choose facts over fiction
 
