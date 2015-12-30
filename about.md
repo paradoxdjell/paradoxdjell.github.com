@@ -6,9 +6,7 @@ permalink: /about/
 
 Hi, I'm Aditya Saky!
 
-I'm an amateur web designer, based in Bangalore, India. I'm studying Computer Science and I'm also one of the developers behind <a href="http://venturerom.com" target="_blank">VentureROM</a>, a custom ROM for Android.
-
-I'm the co-creator/owner (can chat-rooms be owned?) of the chat-room shield on Scrollback. This is a chat-room for all things S.H.I.E.L.D. from the Marvel Cinematic Universe. <a href="http://scrollback.io/shield" target="_blank">Join us!</a>
+I'm an amateur web designer, based in Bangalore, India. I'm studying Computer Science and I'm one of the developers behind <a href="http://venturerom.com" target="_blank">VentureROM</a>, a custom ROM for Android (no longer functional). I'm also a tech blogger at <a href="http://techaeris.com" target="_blank">Techaeris</a>.
 
 If you like the content on this site, you can support my existence and <a href="http://saky.in/momos" target="_blank">my quest to find the perfect momo</a> in this world by turning off your Ad Blocker. This site has non invasive Google and Amazon advertisements. You can also help me out by bookmarking my Amazon Associate ID: <a href="http://amazon.in/?tag=sakyin-21" target="_blank">http://amazon.in/?tag=sakyin-21</a>. This will open the Amazon site for you and for purchase you make, I get a small percentage, with no additionall cost to you.
 
