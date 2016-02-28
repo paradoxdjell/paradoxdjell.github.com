@@ -19,9 +19,9 @@ description: Of momos and more
 footer-links:
   dribbble:
   email: aditya@saky.in
-  facebook: AdityaSaky
+  facebook: 
   flickr:
-  github: #paradoxdjell/paradoxdjell.github.com
+  github: paradoxdjell
   instagram: adityasaky
   linkedin:
   pinterest:
@@ -29,7 +29,7 @@ footer-links:
   twitter: saky_himself
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: #meh
-  googleplus: +AdityaSaky
+  googleplus: 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
