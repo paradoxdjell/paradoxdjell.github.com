@@ -20,7 +20,8 @@ html {
 }
 
 body {
-  background: $lightGray;
+  //background: $lightGray;
+  background: #fff;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -294,7 +295,8 @@ i {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  //background-color: $lightGray;
+  background: #fff;
 }
 
 footer {
