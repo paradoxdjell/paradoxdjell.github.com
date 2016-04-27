@@ -6,6 +6,7 @@
 //
 
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans);
+@import url(https://fonts.googleapis.com/css?family=Lato);
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 @import "reset";
 @import "variables";
@@ -17,7 +18,7 @@
 
 html {
   font-size: 100%;
-  font-family: "Alegreya Sans";
+  font-family: "Lato";
 }
 
 body {
@@ -233,6 +234,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   //font-family: $helveticaNeue;
+  font-family: "Oswald";
   font-size: 18px;
 
   @include mobile {
