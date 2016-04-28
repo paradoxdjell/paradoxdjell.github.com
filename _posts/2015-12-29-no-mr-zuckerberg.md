@@ -3,6 +3,7 @@ title: No, Mr. Zuckerberg
 layout: post
 excerpt: The fight for net neutrality in India has started again. After Facebook renamed internet.org to Free Basics and started asking users to sign a petition to "save Free Basics in India", a lot of back and forth has taken place, which culminated in Mark Zuckerberg himself coming out of paternity leave to write an editorial in The Times of India.
 image: http://saky.in/images/net-neutrality.jpg
+label: internet
 ---
 
 The fight for net neutrality in India has started again. After Facebook renamed internet.org to Free Basics and started asking users to sign a petition to "save Free Basics in India", a lot of back and forth took place, which culminated in Mark Zuckerberg himself coming out of paternity leave to write an editorial in The Times of India.
