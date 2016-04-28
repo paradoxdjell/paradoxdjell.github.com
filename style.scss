@@ -323,6 +323,14 @@ i {
     text-transform: uppercase;
     font-weight: bold;
     font-size: 18px;
+    
+    a {
+      color: #FF5349;
+      
+      &:hover,focus {
+        color: #E34234;
+      }
+    }
   }
 }
 
