@@ -12,11 +12,11 @@ layout: default
       <!--<div class="date">
         {{ post.date | date: "%B %e, %Y" }}{% if post.user %} | {{ post.user }}{% endif %}
   </div>-->
-
       <div class="entry">
       {% if post.image %}
           <img src="{{ post.image }}" style="//margin-bottom: 10px;">
         {% endif %}
+<div class="wrapper-excerpt">
 <div class="excerpt">
       <p class="preview">
   {{ post.excerpt }}
@@ -28,7 +28,8 @@ layout: default
 <div class="label">
   hello
 </div>
-
+</div>
+<div class="clear"></div>
       </div>
 
     </article>
