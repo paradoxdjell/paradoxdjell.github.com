@@ -226,6 +226,10 @@ img {
   font-size: 56px;
   text-transform: uppercase;
   letter-spacing: 1px;
+
+  a:hover,focus {
+    color: #E34234;
+  }
 }
 
 .site-description {
