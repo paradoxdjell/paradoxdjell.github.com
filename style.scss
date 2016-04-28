@@ -268,12 +268,13 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      //color: $blue;
+      color: #FF5349;
     }
   
-  a:hover,focus {
-    color: #E34234;
-  }
+    &:hover,focus {
+      color: #E34234;
+    }
   }
 }
 
