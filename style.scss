@@ -270,6 +270,10 @@ nav {
       margin: 0 10px;
       color: $blue;
     }
+  
+  a:hover,focus {
+    color: #E34234;
+  }
   }
 }
 
