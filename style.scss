@@ -46,7 +46,13 @@ body {
 }
 
 .post-title {
+
+  color: #FF5349;
+
   a {
+
+    color: $darkGray;
+
     &:hover,focus {
       color: #FF5349;
       background-color: transparent;
