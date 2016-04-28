@@ -46,14 +46,14 @@ body {
 }
 
 .excerpt {
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 768px) {
     width: 50%;
     float: left;
   }
 }
 
 .label {
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 768px) {
     width: 50%;
     float: right;
   }
