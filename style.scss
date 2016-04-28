@@ -240,7 +240,7 @@ img {
 
   a:hover,focus {
     color: #FF5349;
-    background-color: none;
+    background-color: transparent;
   }
 }
 
@@ -286,7 +286,7 @@ nav {
   
     &:hover,focus {
       color: #E34234;
-      background-color: none;
+      background-color: transparent;
     }
   }
 }
