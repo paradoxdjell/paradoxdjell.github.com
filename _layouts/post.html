@@ -8,7 +8,7 @@ layout: default
     {{ content }}
   </div>
   <div class="date">
-    {% if page.user %} | {{ page.user }}{% endif %}
+    {% if page.user %}{{ page.user }}<br>{% endif %}
     {{ page.date | date: "%B %e, %Y" }}
   </div>
 </article>
