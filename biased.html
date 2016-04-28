@@ -11,9 +11,9 @@ title: Biased
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <div class="date">
+      <!--<div class="date">
     {{ post.date | date: "%B %e, %Y" }}{% if post.user %} | {{ post.user }}{% endif %}
-  </div>
+  </div>-->
 
       <div class="entry">
 <p>
@@ -22,6 +22,7 @@ title: Biased
         {% endif %}
         <br>
         {{ post.excerpt }}
+</p><p>
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">More</a>
 </p>
       </div>
