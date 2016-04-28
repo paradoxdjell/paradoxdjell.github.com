@@ -307,9 +307,11 @@ i {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    //border-left: 2px solid $gray;
+    border-left: 2px solid #FF5349;
     padding: 0.1em 1em;
-    color: $gray;
+    //color: $gray;
+    color: #FF5349;
     font-size: 22px;
     font-style: italic;
     letter-spacing: 1px;
