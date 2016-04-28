@@ -15,12 +15,12 @@ layout: default
 
       <div class="entry">
         <br>
-        {% if post.image %}
+       <p> {% if post.image %}
           <img src="{{ post.image }}" style="margin-bottom: 10px;">
         {% endif %}
         <br>
         {{ post.excerpt }}
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">More</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">More</a></p>
       </div>
 
     </article>
