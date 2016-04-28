@@ -16,7 +16,7 @@ Oh, and for the uninitiated, Wikipedia describes momo as:
 
 ![Momos <3](http://saky.in/images/momo.jpg "Taken from Wikipedia")
 
-### Contact me
+### Contact Me
 
 Email: [aditya@saky.in](mailto:aditya@saky.in)
 <br>
