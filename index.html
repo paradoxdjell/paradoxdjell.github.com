@@ -14,10 +14,11 @@ layout: default
   </div>-->
 
       <div class="entry">
-       <p class="preview"> {% if post.image %}
+      {% if post.image %}
           <img src="{{ post.image }}" style="margin-bottom: 10px;">
         {% endif %}
-        {{ post.excerpt }}
+      <p class="preview">
+  {{ post.excerpt }}
 </p>
 <p class="preview read-more">
         <a href="{{ site.baseurl }}{{ post.url }}">More</a></p>
