@@ -359,7 +359,6 @@ i {
 
 footer {
   padding: 20px 0;
-  text-align: center;
 }
 
 .wrapper-pinned {
@@ -367,6 +366,10 @@ footer {
   margin-top: 50px;
  background-color: $lightGray;
 
+}
+
+.copyright {
+  font-size: 18px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
