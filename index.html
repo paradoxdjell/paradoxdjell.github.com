@@ -17,11 +17,14 @@ layout: default
       {% if post.image %}
           <img src="{{ post.image }}" style="//margin-bottom: 10px;">
         {% endif %}
+<div class="excerpt">
       <p class="preview">
   {{ post.excerpt }}
 </p>
 <p class="preview read-more">
         <a href="{{ site.baseurl }}{{ post.url }}">More</a></p>
+
+</div>
       </div>
 
     </article>
