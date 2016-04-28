@@ -369,7 +369,16 @@ footer {
 }
 
 .copyright {
-  font-size: 18px;
+  font-size: 30px;
+
+  a {
+    color: #FF5349;
+
+    &:hover,focus {
+      color: $darkGray;
+      background-color: transparent;
+    }
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
