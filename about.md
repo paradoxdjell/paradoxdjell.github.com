@@ -28,6 +28,7 @@ Twitter: <a href="https://twitter.com/saky_himself" target="_blank">@saky_himsel
 
 You might have seen a copyright icon in the footer. Well, that's not entirely accurate. You're free to share, use, and adapt the content on this site as much as you want as long as:
 <ul>
-<li>You credit me with a link to the source</li>
-<li>You don't use anything for commercial purposes</li>
+<li>You credit me with a link to the source</li>.
+<li>You don't use anything for commercial purposes</li>.
 </ul>
+Alright then!
