@@ -10,7 +10,7 @@ excerpt: Biased is an idea I conceptualised where instead of having one author t
 
 ![Apple Watch](http://saky.in/images/apple-watch.png "Taken from Redmond Pie")
 
-####Vedant Mathur
+#### Vedant Mathur
 
 Earlier this month, Apple announced the Apple Watch. I was in class at the time, so I watched the rerun later. The way Tim Cook described it made it perfect. How much more perfect can a device get, anyway? The only rival to the Apple watch is the toned down Pebble Time which, for just $150 less, isn’t worth it. “Smartwatches” have been around for quite a while, whether they be backlit on touch, e-ink, or calculator watches - they are a type of watch that gives superior functionality over a standard watch. Google’s Android Wear has been around for some time. I’ve personally been using a Moto 360 for the past several months. It’s okay, but the OS as a whole feels lacking in more aspects than one. Performance, ease of use, connectivity with other apps, including some of Google’s own. When I first got my watch, I couldn’t send a Hangouts message; I could only respond to one. Google is only now rolling this out.
 
@@ -22,7 +22,7 @@ Apple offers the same watch in multiple categories - the Sport, the Regular, and
 
 Google has done mildly with their Android Wear selection. Pebble is underpowered. If I was to choose, the Apple Watch would be the choice. You get what you pay for, and the Apple Watch is a great buy.
 
-####Jazli Aziz:
+#### Jazli Aziz:
 
 Smartwatches as we know them today, have been around for quite some time. Android Wear was launched almost a year ago, with the LG G Watch and Samsung Gear Live leading the pack, followed by the Moto 360 and others shortly after. Even before Android Wear, there was Pebble, followed by Pebble Steel. This year the market is continuing to grow, with more Android Wear watches and Pebble’s third-gen device, the Pebble Time already announced. And while geeks might enjoy this new product category - Pebble Time is now the [most funded Kickstarter project ever](http://asia.pcmag.com/wearable-tech/2081/news/pebble-time-now-most-funded-kickstarter-ever) - try pitching a smartwatch to a regular consumer and you’ll likely be met with “Why do I need another device which does what my phone can already do?” This is where Apple comes in. Traditionally whenever Apple launches a new product, be it the first in the industry or a follow-up to what is already available, people tend to take notice. Apple’s marketing prowess and brand recognition are probably the best in the world. So when news broke that Apple would be releasing the Apple Watch, people said this would be the boost smartwatches need to become mainstream. Apple launched the Apple Watch earlier this month and to be honest, I don’t think it stands a better chance at promoting smartwatches than any other device already in the market. Here’s why.
 
@@ -34,7 +34,7 @@ So if the design and the price can’t convince consumers they need a smartwatch
 
 When it comes to buying any new piece of technology, the consumer must feel like they are getting their money’s worth. The price of smartwatches will always need to be proportionate to its functionality, and it will always be compared to the price and functionality of a smartphone. Perhaps the reason why Pebble has been so successful is because you get a lot of value for a small price. With the Apple Watch, it seems like the exact opposite. The Apple Watch was supposed to usher in a new dawn of wearable technology. It was supposed to make the average Joe want a smartwatch. But with what Apple has given us, I think the smartwatch market will be largely unaffected by it.
 
-###Bios
+### Bios
 
 *Vedant Mathur is a lover of all things technology. Though he's an Android developer, he's quick to go back to his iPhone 6 and iPad, simply because the experience beats his Moto X, in his opinion. Check out Vedant's profile [here](http://google.com/+VedantMathur).*
 
