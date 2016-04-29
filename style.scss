@@ -20,10 +20,6 @@ html {
   font-family: "Merriweather";
   font-weight: lighter;
   //letter-spacing: 1.5px;
-
-  &::selection {
-    background: rgba(255, 83, 73, 120);
-  }
 }
 
 body {
@@ -62,7 +58,7 @@ body {
   margin-top: 10px;
   font-family: "Oswald";
   text-transform: uppercase;
- 
+
   @media screen and (min-width: 768px) {
     width: 50%;
     float: right;
@@ -91,7 +87,7 @@ body {
       background-color: transparent;
     }
   }
-  
+
   @media screen and (min-width: 768px) {
     width: 50%;
   }
@@ -200,12 +196,12 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: #fff;
+  background: rgba(255, 83, 73, 120);
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: #fff;
+  background: rgba(255, 83, 73, 120);
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -327,7 +323,7 @@ nav {
       margin: 0 10px;
       //color: $blue;
     }
-  
+
     &:hover,focus {
       color: $darkGray;
       background-color: transparent;
@@ -376,10 +372,10 @@ i {
     text-transform: uppercase;
     font-weight: bold;
     font-size: 18px;
-    
+
     a {
       color: #FF5349;
-      
+
       &:hover,focus {
         color: #000;
         background-color: transparent;
