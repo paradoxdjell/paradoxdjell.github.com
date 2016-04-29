@@ -32,4 +32,6 @@ You might have seen a copyright icon in the footer. Well, that's not entirely ac
 <li>You credit me with a link to the source.</li>
 <li>You don't use anything for commercial purposes.</li>
 </ul>
-Alright then!
+
+### Created by
+<img src="http://saky.in/images/dux.jpg">
