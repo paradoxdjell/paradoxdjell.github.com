@@ -11,7 +11,7 @@ The third instalment of Biased is here, this time taking a look at the Samsung G
 
 ![Samsung Galaxy S6 and S6 Edge](http://saky.in/images/samsung-galaxy-s6-and-s6-edge.jpg "Taken from Forbes")
 
-####Dan Kinem
+#### Dan Kinem
 
 After using it as my daily driver for a couple of weeks, in my opinion, this is a phone that only two manufacturers on the planet could have produced and the other is in Cupertino.
 
@@ -35,7 +35,7 @@ Gone are the stalwarts of removable battery and memory card. I’m sad to see th
 
 Best camera *ever*.  Best screen *ever*. One of the longest lasting batteries. Arguably the best looking phone. Precision build. Blistering speed and responsiveness. This phone is a no-brainer and easily in my top 5 phones of all time.
 
-####Jazli Aziz
+#### Jazli Aziz
 
 For years the tech community has been calling on Samsung to dump their cheap plastic ways and make phones that actually look and feel like a flagship. While HTC was making elegantly designed full-metal phones, and Sony was making industrial glass-sandwich phones, Samsung was still making phones with flimsy and often tacky plastic backs. Samsung tested the waters last year by releasing the Galaxy Alpha, a pretty mid-range offering which was significant for another reason - build quality. All around people applauded Samsung for finally making a phone that felt “premium”. The quest for better build quality continued with the Galaxy Note 4 which like the Alpha, also came with a metal band around the sides of the phone. The Galaxy S6 and S6 Edge are the final results of that quest, maintaining that metal trim and finishing it off with a glass back replacing the much loathed flimsy plastic. And as far as Samsung goes, they’re two of the best phones the company has ever made. Aesthetically anyway. Despite the flashy new design, there’s still a lot that I find wrong with Samsung’s latest flagships.
 
@@ -47,7 +47,7 @@ Let’s talk about the S6 Edge for a moment. It is after all according to many, 
 
 For years, Samsung’s flagships have always put functionality before design. They recycled the same design each year, added more and more features which made TouchWiz synonymous with the word “lag”, and frustrated users as their phones slowed down the longer they owned them. I give credit to Samsung for finally <a href="https://plus.google.com/+JazliAziz/posts/VAN1jwrtgqB" target="_blank">listening to criticism</a> this year and trying to fix their problems, but it feels like they overcompensated. They removed two of their most beloved features in favour of a sleeker and slimmer design - which many people also criticised for looking <a href="https://plus.google.com/+AlexanderMaxham/posts/NquWZEUwqog" target="_blank">too much like a competitor's design</a>. It’s definitely a step in the right direction in my opinion, but with Samsung looking to emulate the competition by sacrificing hallmark features rather than keeping them to keep fans happy, only time will tell if this new approach will ultimately payoff.
 
-####Bios
+#### Bios
 
 *Dan Kinem loves two things: naps and phones. A neurologist by day, Dan writes about all things tech on Google+, <a href="https://www.gadgetblur.com/" target="_blank">GadgetBlur</a> and of course, here. Check out Dan's profile <a href="https://plus.google.com/104057523459738590274" target="_blank">here</a>.*
 
