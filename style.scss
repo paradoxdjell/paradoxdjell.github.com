@@ -20,6 +20,10 @@ html {
   font-family: "Merriweather";
   font-weight: lighter;
   //letter-spacing: 1.5px;
+
+  &::selection {
+    background: rgba(255, 83, 73, 120);
+  }
 }
 
 body {
