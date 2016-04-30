@@ -18,11 +18,20 @@ Oh, and for the uninitiated, Wikipedia describes momo as:
 
 ### Contact Me
 
-Email: [aditya@saky.in](mailto:aditya@saky.in)
-<br>
-Google+: <a href="http://google.com/+AdityaSaky" target="_blank">+Aditya Saky</a>
-<br>
-Twitter: <a href="https://twitter.com/saky_himself" target="_blank">@saky_himself</a>
+<table>
+<tr>
+<td>Email</td>
+<td>[aditya@saky.in](mailto:aditya@saky.in)</td>
+</tr>
+<tr>
+<td>Google+</td>
+<td><a href="http://google.com/+AdityaSaky" target="_blank">+Aditya Saky</a></td>
+</tr>
+<tr>
+<td>Twitter</td>
+<td><a href="https://twitter.com/saky_himself" target="_blank">@saky_himself</a></td>
+</tr>
+</table>
 
 <a name="licensing"></a>
 <h3>Licensing</h3>
