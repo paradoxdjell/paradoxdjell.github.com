@@ -72,8 +72,8 @@ body {
 }
 
 .dux-mobile {
-  display: none;
   img {
+    display: none;
     @include mobile {
       width: 100%;
       display: inline;
