@@ -34,4 +34,4 @@ You might have seen a copyright icon in the footer. Well, that's not entirely ac
 </ul>
 
 ### Created by
-<img src="http://saky.in/images/dux.svg" style="width: 100%;">
+<div class="dux"><img src="http://saky.in/images/dux.svg"></div>

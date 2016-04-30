@@ -67,7 +67,16 @@ body {
   }
 
   @media screen and (max-width: 767px) {
-    display: none;
+    //display: none;
+  }
+}
+
+.dux {
+  
+  img {
+    @include mobile {
+      width: 100%;
+    }
   }
 }
 
