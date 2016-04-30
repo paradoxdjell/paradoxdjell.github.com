@@ -25,7 +25,7 @@ Google+: <a href="http://google.com/+AdityaSaky" target="_blank">+Aditya Saky</a
 Twitter: <a href="https://twitter.com/saky_himself" target="_blank">@saky_himself</a>
 
 <a name="licensing"></a>
-### Licensing
+<h3>Licensing</h3>
 
 You might have seen a copyright icon in the footer. Well, that's not entirely accurate. You're free to share, use, and adapt the content on this site as much as you want as long as:
 <ul>
