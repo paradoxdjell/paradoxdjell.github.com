@@ -71,15 +71,23 @@ body {
   }
 }
 
-.dux {
-  
+.dux-mobile {
+  display: none;
   img {
     @include mobile {
       width: 100%;
+      display: inline;
     }
   }
 }
 
+.dux-desktop {
+  img {
+    @include mobile {
+      display: none;
+    }
+  }
+}
 .clear {
   float: none;
 }
