@@ -10,7 +10,7 @@ I thought I'd log my quest to find the perfect momo somewhere. For the uninitiat
 
 ![Momos <3](http://saky.in/images/momo.jpg "Taken from Wikipedia")
 
-###Approved Momo Vendors
+### Approved Momo Vendors
 
 * Momo Junction
 * Momo Mia!
