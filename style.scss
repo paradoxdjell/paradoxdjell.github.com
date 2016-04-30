@@ -95,15 +95,12 @@ body {
   a {
 
     color: $darkGray;
+    width: 50%;
 
     &:hover,focus {
       color: #FF5349;
       background-color: transparent;
     }
-  }
-
-  @include mobile {
-    width: 50%;
   }
 }
 
