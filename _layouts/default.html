@@ -3,7 +3,7 @@
 <!--Any particular reason you're reading the source code?-->
 <!--Well, I can't really stop you, can I?-->
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}{% if site.description %} – {{ site.description }}{% endif %}</title>
 
     {% include meta.html %}
 
