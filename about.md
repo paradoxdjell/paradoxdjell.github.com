@@ -33,6 +33,7 @@ You might have seen a copyright icon in the footer. Well, that's not entirely ac
 <li>You credit me with a link to the source.</li>
 <li>You don't use anything for commercial purposes.</li>
 </ul>
+I do occasionally take content from other websites - images for one thing. I mention the source, generally, so I suggest you check their copyright notices before using them.
 
 ### Created By
 <div class="dux-mobile"><img src="http://saky.in/images/dux-mobile.svg"></div>
