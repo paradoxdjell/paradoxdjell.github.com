@@ -21,7 +21,7 @@ Oh, and for the uninitiated, Wikipedia describes momo as:
 <table>
 <tr>
 <td>Email</td>
-<td>[aditya@saky.in](mailto:aditya@saky.in)</td>
+<td><a href="mailto:aditya@saky.in">aditya@saky.in</a></td>
 </tr>
 <tr>
 <td>Google+</td>
