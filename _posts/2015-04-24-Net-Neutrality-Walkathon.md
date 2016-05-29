@@ -4,6 +4,7 @@ title: Net Neutrality Walkathon
 user: Aditya Saky
 image: http://saky.in/images/net-neutrality-walkathon.jpg
 excerpt: I posted a while ago about why net neutrality is important, especially in a country like India.
+galleryid: airtel-zero-walkaton
 ---
 
 I [posted a while ago](http://saky.in/Net-Neutrality-in-India/) about why net neutrality is important, especially in a country like India.
@@ -19,3 +20,16 @@ I've embedded the images below!
 Also, today is the last day to appeal TRAI to protect out internet. Hit up [savetheinternet.in](http://savetheinternet.in/) if you haven't already.
 
 *Edit: TRAI is no longer accepting responses from users. They've now asked telecom companies to present their side. Stay tuned.*
+
+{% for gallery in site.data.galleries %}
+  {% if gallery.id == page.galleryid %}
+    <h1>{{ gallery.description }}</h1>
+    <ol>
+    {% for image in gallery.images %}
+      <li>
+          <img src="{{ gallery.imagefolder }}/{{ image.name }}">
+      </li>
+    {% endfor %}
+    </ol>
+  {% endif %}
+{% endfor %}
