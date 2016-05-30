@@ -45,6 +45,13 @@ body {
   padding: 0px 20px 2px 20px;
 }
 
+.gallery-wrapper {
+  img {
+    max-width: 100%;
+    margin: 5px;
+  }
+}
+
 .excerpt {
   @media screen and (min-width: 768px) {
     width: 50%;
