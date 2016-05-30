@@ -21,15 +21,8 @@ Also, today is the last day to appeal TRAI to protect out internet. Hit up [save
 
 *Edit: TRAI is no longer accepting responses from users. They've now asked telecom companies to present their side. Stay tuned.*
 
-{% for gallery in site.data.galleries %}
-  {% if gallery.id == page.galleryid %}
-    <h1>{{ gallery.description }}</h1>
-    <ol>
-    {% for image in gallery.images %}
-      <li>
-          <img src="{{ gallery.imagefolder }}/{{ image.name }}">
-      </li>
-    {% endfor %}
-    </ol>
-  {% endif %}
+{% for image in site.static_files %}
+    {% if image.path contains 'images/airtel-zero-walkathon' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
 {% endfor %}
