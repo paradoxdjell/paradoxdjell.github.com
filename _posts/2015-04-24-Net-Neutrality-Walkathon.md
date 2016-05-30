@@ -15,15 +15,14 @@ I [posted a while ago](http://saky.in/Net-Neutrality-in-India/) about why net ne
 
 I've embedded the images below!
 
-{% include net-neutrality-walkathon-images.html %}
+<div class="gallery-wrapper">
+{% for image in site.static_files %}
+    {% if image.path contains 'images/airtel-zero-walkathon' %}
+      <img src="{{ site.baseurl }}{{ image.path }}">
+    {% endif %}
+{% endfor %}
+</div>
 
 Also, today is the last day to appeal TRAI to protect out internet. Hit up [savetheinternet.in](http://savetheinternet.in/) if you haven't already.
 
 *Edit: TRAI is no longer accepting responses from users. They've now asked telecom companies to present their side. Stay tuned.*
-
-{% for image in site.static_files %}
-    {% if image.path contains 'images/airtel-zero-walkathon' %}
-        <img src="{{ site.baseurl }}{{ image.path }}">
-![Net Neutrality Walkathon]({{ site.baseurl }}{{ image.path }} "Taken from FSMK and I'm pretty sure they don't mind ;)")
-    {% endif %}
-{% endfor %}
