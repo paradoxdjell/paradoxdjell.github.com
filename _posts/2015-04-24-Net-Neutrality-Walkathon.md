@@ -23,6 +23,6 @@ Also, today is the last day to appeal TRAI to protect out internet. Hit up [save
 
 {% for image in site.static_files %}
     {% if image.path contains 'images/airtel-zero-walkathon' %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        <img src="{{ site.baseurl }}{{ image.path }}">
     {% endif %}
 {% endfor %}
