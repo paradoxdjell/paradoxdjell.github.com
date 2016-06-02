@@ -35,7 +35,9 @@ You might have seen a copyright icon in the footer. Well, that's not entirely ac
 </ul>
 I do occasionally take content from other websites - images for one thing. I mention the source, generally, so I suggest you check their copyright notices before using them.
 
+<!--
 ### Created By
 <div class="dux-mobile"><img src="http://saky.in/images/dux-mobile.svg"></div>
 <div class="dux-desktop"><img src="http://saky.in/images/dux-desktop.svg"></div>
 I’m one of the co-founders of Deus Ux, or DUx in short. At DUx, we do website development and design, with a heavy emphasis on the User Experience.
+-->
