@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Aditya Saky!
 
-I'm an amateur web designer, based in Bangalore, India. I'm studying Computer Science and I'm one of the developers behind <a href="https://plus.google.com/communities/113182664923280225609" target="_blank">VentureROM</a>, a custom ROM for Android (no longer functional). I'm also one of the writers at <a href="http://techaeris.com/author/adityasaky" target="_blank">Techaeris</a>.
+I'm a web designer and developer based in Bangalore, India. I'm studying Computer Science and I'm one of the developers behind <a href="https://plus.google.com/communities/113182664923280225609" target="_blank">VentureROM</a>, a custom ROM for Android (no longer functional). I'm also one of the writers at <a href="http://techaeris.com/author/adityasaky" target="_blank">Techaeris</a>.
 
 ### Contact Me
 
